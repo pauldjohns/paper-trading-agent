@@ -1,0 +1,28 @@
+{
+  "intrabar_pierce": {
+    "price": 94.905,
+    "shares": 9.9925,
+    "cost": 0.732448,
+    "proceeds": 947.605764,
+    "trade_date": "2026-01-06",
+    "settled_same_day": 0,
+    "settled_next_day": 947.605764
+  },
+  "signal_sell": {
+    "price": 102.0,
+    "shares": 9.9925,
+    "cost": 0.787081,
+    "proceeds": 1018.447919,
+    "trade_date": "2026-01-07",
+    "settled_same_day": 0,
+    "settled_next_day": 1018.447919
+  },
+  "stress_buy_stop": {
+    "buy_cost": 1.5,
+    "buy_shares": 9.985,
+    "exit_price": 90.0,
+    "exit_cost": 1.368145,
+    "exit_proceeds": 897.281855,
+    "trade_date": "2026-01-08"
+  }
+}

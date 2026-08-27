@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.venv/
+.firecrawl/
+data/raw/*
+data/cache/*
+data/reports/*
+!data/raw/.gitkeep
+!data/cache/.gitkeep
+!data/manifest.csv
+data/robustness/
+
+# LIVE-01 paper-monitor run artifacts (state records, telemetry, raw MCP fetches)
+data/live/

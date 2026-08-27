@@ -1,0 +1,17 @@
+{
+  "buy": {
+    "date": "2026-01-05",
+    "price": 100.0,
+    "shares": 9.9925,
+    "cost": 0.75
+  },
+  "stop_exit": {
+    "date": "2026-01-08",
+    "price": 90.0,
+    "shares": 9.9925,
+    "proceeds": 898.630321,
+    "cost": 0.694679
+  },
+  "settled_on_exit_day": 0,
+  "settled_next_trading_day": 898.630321
+}

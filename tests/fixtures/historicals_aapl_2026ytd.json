@@ -1,0 +1,5 @@
+{"data":{"results":[{"symbol":"AAPL","interval":"day","bounds":"regular","bars":[
+{"begins_at":"2026-01-02T00:00:00Z","open_price":"272.255000","close_price":"271.010000","high_price":"277.840000","low_price":"269.000000","volume":37838054,"session":"reg"},
+{"begins_at":"2026-01-05T00:00:00Z","open_price":"270.640000","close_price":"267.260000","high_price":"271.510000","low_price":"266.140000","volume":45647190,"session":"reg"},
+{"begins_at":"2026-01-06T00:00:00Z","open_price":"267.000000","close_price":"262.360000","high_price":"267.550000","low_price":"262.120000","volume":52352090,"session":"reg"}
+]}]}}

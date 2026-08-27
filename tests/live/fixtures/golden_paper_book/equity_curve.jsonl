@@ -1,0 +1,4 @@
+{"cash": 1700.0, "entries_taken": true, "n_marked_at_cost": 0, "n_positions": 1, "positions_mv": 300.8472458263, "realized_pnl_cum": 0.0, "total_equity": 2000.8472458263, "ts": "2026-06-23T14:00:00Z", "unrealized_pnl": 0.8472458263}
+{"cash": 1700.0, "entries_taken": true, "n_marked_at_cost": 0, "n_positions": 1, "positions_mv": 309.2822153354, "realized_pnl_cum": 0.0, "total_equity": 2009.2822153354, "ts": "2026-06-23T15:00:00Z", "unrealized_pnl": 9.2822153354}
+{"cash": 1700.0, "entries_taken": true, "n_marked_at_cost": 1, "n_positions": 1, "positions_mv": 300.0, "realized_pnl_cum": 0.0, "total_equity": 2000.0, "ts": "2026-06-23T16:00:00Z", "unrealized_pnl": 0.0}
+{"cash": 2004.5047423273, "entries_taken": true, "n_marked_at_cost": 0, "n_positions": 0, "positions_mv": 0.0, "realized_pnl_cum": 4.5047423273, "total_equity": 2004.5047423273, "ts": "2026-06-23T17:00:00Z", "unrealized_pnl": 0.0}

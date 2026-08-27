@@ -1,0 +1,401 @@
+{
+  "decisions": [
+    {
+      "decision": {
+        "atr14": 0.3538789884,
+        "breakout_55": false,
+        "close": 98.97,
+        "entry": false,
+        "mom_252": 0.0103103307,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.976035503,
+        "prior_donch_upper": 100.0,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 99.85955,
+        "symbol": "AGG",
+        "trend_ok": false
+      },
+      "initial_catastrophe_stop": null,
+      "sizing": null,
+      "symbol": "AGG"
+    },
+    {
+      "decision": {
+        "atr14": 6.4930574885,
+        "breakout_55": true,
+        "close": 521.44,
+        "entry": true,
+        "mom_252": 0.2332726284,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 1.0,
+        "prior_donch_upper": 520.84,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 481.15725,
+        "symbol": "DIA",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 508.4538850229,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 19.4791724656,
+        "shares": 28.7664927892
+      },
+      "symbol": "DIA"
+    },
+    {
+      "decision": {
+        "atr14": 0.3954946116,
+        "breakout_55": false,
+        "close": 94.52,
+        "entry": false,
+        "mom_252": 0.0024392831,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9645882233,
+        "prior_donch_upper": 96.0498,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 96.01565,
+        "symbol": "IEF",
+        "trend_ok": false
+      },
+      "initial_catastrophe_stop": null,
+      "sizing": null,
+      "symbol": "IEF"
+    },
+    {
+      "decision": {
+        "atr14": 5.9717741205,
+        "breakout_55": false,
+        "close": 292.08,
+        "entry": true,
+        "mom_252": 0.3982478817,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9913114309,
+        "prior_donch_upper": 297.91,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 257.42415,
+        "symbol": "IWM",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 280.136451759,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 17.9153223615,
+        "shares": 51.3557929334
+      },
+      "symbol": "IWM"
+    },
+    {
+      "decision": {
+        "atr14": 15.6090130743,
+        "breakout_55": false,
+        "close": 729.86,
+        "entry": true,
+        "mom_252": 0.3850387126,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9781548193,
+        "prior_donch_upper": 748.65,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 626.99645,
+        "symbol": "QQQ",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 698.6419738513,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 46.827039223,
+        "shares": 20.5518866632
+      },
+      "symbol": "QQQ"
+    },
+    {
+      "decision": {
+        "atr14": 9.6404899011,
+        "breakout_55": false,
+        "close": 750.33,
+        "entry": true,
+        "mom_252": 0.2568341709,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9878352226,
+        "prior_donch_upper": 760.4,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 687.3476,
+        "symbol": "SPY",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 731.0490201979,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 28.9214697032,
+        "shares": 19.9912038703
+      },
+      "symbol": "SPY"
+    },
+    {
+      "decision": {
+        "atr14": 0.9401729525,
+        "breakout_55": false,
+        "close": 52.72,
+        "entry": true,
+        "mom_252": 0.2066834516,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9832152182,
+        "prior_donch_upper": 53.195,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 48.01565,
+        "symbol": "XLB",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 50.8396540949,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 2.8205188576,
+        "shares": 284.5220030349
+      },
+      "symbol": "XLB"
+    },
+    {
+      "decision": {
+        "atr14": 1.4090971318,
+        "breakout_55": false,
+        "close": 55.36,
+        "entry": false,
+        "mom_252": 0.256753689,
+        "momentum_ok": true,
+        "near_high": false,
+        "nearness": 0.8849104859,
+        "prior_donch_upper": 63.46,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 50.821375,
+        "symbol": "XLE",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": null,
+      "sizing": null,
+      "symbol": "XLE"
+    },
+    {
+      "decision": {
+        "atr14": 0.7089066242,
+        "breakout_55": true,
+        "close": 54.35,
+        "entry": true,
+        "mom_252": 0.0878702962,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9636524823,
+        "prior_donch_upper": 53.97,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 52.55,
+        "symbol": "XLF",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 52.9321867516,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 2.1267198725,
+        "shares": 275.9889604416
+      },
+      "symbol": "XLF"
+    },
+    {
+      "decision": {
+        "atr14": 3.1202574206,
+        "breakout_55": false,
+        "close": 179.85,
+        "entry": true,
+        "mom_252": 0.2607781283,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 1.0,
+        "prior_donch_upper": 179.98,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 162.84295,
+        "symbol": "XLI",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 173.6094851588,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 9.3607722618,
+        "shares": 83.4028356964
+      },
+      "symbol": "XLI"
+    },
+    {
+      "decision": {
+        "atr14": 5.7500460702,
+        "breakout_55": false,
+        "close": 186.44,
+        "entry": true,
+        "mom_252": 0.5590584103,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9406185359,
+        "prior_donch_upper": 198.73,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 148.7284,
+        "symbol": "XLK",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 174.9399078597,
+      "sizing": {
+        "capped": false,
+        "dollars_at_risk": 1000.0,
+        "notional": 10808.0293459268,
+        "risk_per_share": 17.2501382105,
+        "shares": 57.9705500211
+      },
+      "symbol": "XLK"
+    },
+    {
+      "decision": {
+        "atr14": 1.1840151631,
+        "breakout_55": false,
+        "close": 85.59,
+        "entry": true,
+        "mom_252": 0.0571887352,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9508943451,
+        "prior_donch_upper": 86.695,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 81.54135,
+        "symbol": "XLP",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 83.2219696738,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 3.5520454893,
+        "shares": 175.2541184718
+      },
+      "symbol": "XLP"
+    },
+    {
+      "decision": {
+        "atr14": 0.6918585495,
+        "breakout_55": false,
+        "close": 45.06,
+        "entry": true,
+        "mom_252": 0.106853353,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9440603394,
+        "prior_donch_upper": 47.705,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 44.523725,
+        "symbol": "XLU",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 43.6762829011,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 2.0755756484,
+        "shares": 332.8894806924
+      },
+      "symbol": "XLU"
+    },
+    {
+      "decision": {
+        "atr14": 2.2511001492,
+        "breakout_55": false,
+        "close": 152.94,
+        "entry": true,
+        "mom_252": 0.1234849041,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9546816479,
+        "prior_donch_upper": 155.1591,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 149.2314,
+        "symbol": "XLV",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 148.4377997017,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 6.7533004475,
+        "shares": 98.0776775206
+      },
+      "symbol": "XLV"
+    },
+    {
+      "decision": {
+        "atr14": 2.1396007604,
+        "breakout_55": false,
+        "close": 118.46,
+        "entry": true,
+        "mom_252": 0.1189194295,
+        "momentum_ok": true,
+        "near_high": true,
+        "nearness": 0.9513331192,
+        "prior_donch_upper": 122.19,
+        "reason": "ok",
+        "signal_date": "2026-06-16",
+        "sma200": 117.63935,
+        "symbol": "XLY",
+        "trend_ok": true
+      },
+      "initial_catastrophe_stop": 114.1807984793,
+      "sizing": {
+        "capped": true,
+        "dollars_at_risk": 1000.0,
+        "notional": 15000.0,
+        "risk_per_share": 6.4188022811,
+        "shares": 126.6250211042
+      },
+      "symbol": "XLY"
+    }
+  ],
+  "equity": 100000.0,
+  "params": {
+    "f": 0.01,
+    "k": 3.0,
+    "m": 2.0,
+    "near_threshold": 0.9,
+    "per_name_cap_frac": 0.15
+  },
+  "schema_version": 1,
+  "signal_basis": "split"
+}

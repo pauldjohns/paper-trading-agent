@@ -1,0 +1,113 @@
+{
+  "scan_id": "00000000-0000-0000-0000-000000000000",
+  "scan_title": "Untitled Scan",
+  "total_items": 319,
+  "sorted_by": "Market cap desc",
+  "cortex_managed": false,
+  "filters_applied": [
+    {
+      "filter_type": "Volume",
+      "predicate": ">",
+      "values": [
+        "1000000"
+      ],
+      "interval": "1d",
+      "length": 1
+    },
+    {
+      "filter_type": "RSI",
+      "predicate": ">",
+      "values": [
+        "60"
+      ],
+      "interval": "1d",
+      "length": 14
+    },
+    {
+      "filter_type": "Market cap",
+      "predicate": ">",
+      "values": [
+        "2000000000"
+      ]
+    },
+    {
+      "filter_type": "Close",
+      "predicate": ">",
+      "values": [
+        "10"
+      ],
+      "interval": "1d",
+      "length": 1
+    }
+  ],
+  "results": [
+    {
+      "ticker": "TSM",
+      "instrument_id": "ca4821f9-06c3-4c22-bbb8-efe569f23d2b",
+      "instrument_type": "EQUITY",
+      "columns": {
+        "% Change": "-0.012722646310432545",
+        "Close": "467.67",
+        "Last": "461.72",
+        "Market cap": "1.973481826093e+12",
+        "Name": "Taiwan Semiconductor Manufacturing",
+        "Net change": "-5.949999999999989",
+        "RSI": "64.61970349088122",
+        "Relative volume": "1",
+        "Symbol": "TSM",
+        "Volume": "1.3815262174285e+07"
+      }
+    },
+    {
+      "ticker": "MU",
+      "instrument_id": "0a8a072c-e52c-4e41-a2ee-8adbd72217d3",
+      "instrument_type": "EQUITY",
+      "columns": {
+        "% Change": "-0.02920635968894988",
+        "Close": "1211.38",
+        "Last": "1176",
+        "Market cap": "1.278839136493e+12",
+        "Name": "Micron Technology",
+        "Net change": "-35.38000000000011",
+        "RSI": "69.7686556094827",
+        "Relative volume": "1",
+        "Symbol": "MU",
+        "Volume": "5.4244099265161e+07"
+      }
+    },
+    {
+      "ticker": "AMD",
+      "instrument_id": "940fc3f5-1db5-4fed-b452-f3a2e4562b5f",
+      "instrument_type": "EQUITY",
+      "columns": {
+        "% Change": "-0.015644544350379777",
+        "Close": "551.63",
+        "Last": "543",
+        "Market cap": "8.76235865379e+11",
+        "Name": "AMD",
+        "Net change": "-8.629999999999995",
+        "RSI": "63.08049487787472",
+        "Relative volume": "1",
+        "Symbol": "AMD",
+        "Volume": "2.6111514037072e+07"
+      }
+    },
+    {
+      "ticker": "JPM",
+      "instrument_id": "43c1172a-9130-420a-ac9b-b01a6ff5dd54",
+      "instrument_type": "EQUITY",
+      "columns": {
+        "% Change": "-0.001417883431881342",
+        "Close": "331.48",
+        "Last": "331.01",
+        "Market cap": "8.71430703361e+11",
+        "Name": "JPMorgan Chase",
+        "Net change": "-0.4700000000000273",
+        "RSI": "65.89035379100258",
+        "Relative volume": "1",
+        "Symbol": "JPM",
+        "Volume": "1.018417842389e+07"
+      }
+    }
+  ]
+}
